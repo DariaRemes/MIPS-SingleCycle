@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Tue Apr 25 21:45:28 2023
+# Process ID: 18824
+# Current directory: D:/anul_2/sem_2/AC/test_env/test_env.runs/impl_1
+# Command line: vivado.exe -log test_env.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source test_env.tcl -notrace
+# Log file: D:/anul_2/sem_2/AC/test_env/test_env.runs/impl_1/test_env.vdi
+# Journal file: D:/anul_2/sem_2/AC/test_env/test_env.runs/impl_1\vivado.jou
+# Running On: DESKTOP-O2II41S, OS: Windows, CPU Frequency: 2592 MHz, CPU Physical cores: 6, Host memory: 16929 MB
+#-----------------------------------------------------------
+source test_env.tcl -notrace
